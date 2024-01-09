@@ -3,6 +3,7 @@
 import 'dart:convert';
 import 'dart:ui';
 
+import 'package:flutter/material.dart';
 import 'package:collection/collection.dart';
 import 'package:flutter_quill/flutter_quill.dart';
 import 'package:markdown_quill/src/custom_quill_attributes.dart';
